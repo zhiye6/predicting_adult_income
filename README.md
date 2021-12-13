@@ -1,17 +1,15 @@
-In order to reproduce the results of my project, you should first download
-the dataset called adult.data from either my Gradescope submission or from UCI
-Machine Learning Repository’s website [here](http://archive.ics.uci.edu/ml/datasets/Adult).
-If you are downloading from the link, you should click on Data Folder then
-click on adult.data to download the dataset. Then, you should save it in the
-same folder that you are storing all of my project files. Afterwards, open
-Visual Studio Code (VS Code) and ensure that your development environment is
-set-up accordingly to the class’ instructions [here](https://courses.cs.washington.edu/courses/cse163/21wi/software.html).
-Once VS Code has been properly set-up, open the folder that my project
-files are stored in. Then, using the terminal in VS Code install plotly
-using $ conda install -c plotly plotly=4.14.3 or follow the instructions under
-"Installation" from plotly's site [here](https://plotly.com/python/getting-started/).
-When the above have been done, my files run_income_project.py (main Python module to run)
-and income_project_test.py (Python module to test) should be able to run and produce print statements in the terminal and graphs should be created in the folder that my project is
-stored in. For my testing file, you will need to download my custom testing file called
-adult.test that I submitted through Gradescope. After all that has been done, everything
-should be properly running now. 
+The background of this Adult Dataset is that it provides data on the income of adult
+individuals. This data includes relevant information that are potential factors that determines
+the income of adults such as age, education, gender, race, etc. The motivation behind this
+project is to use machine learning to accurately predict whether the income of an adult will
+exceed $50,000 per year based on the census data. By doing so, I can discover if there are any
+underlying factors that determines whether or not an adult individual will make over $50,000
+per year. Additionally, I will push my analysis further by computing income across genders at
+every race and occupation to discover if there is an income inequality gap present in the
+dataset. Furthermore, I will analyze how a factor such as education affects the income of adults
+to see if there is a large disparity of income levels for adult individuals with varying education.
+Overall, the goal of this project is to determine the underlying factors that affect income for
+adult individuals. My analysis will be able provide answers to societal questions such as “how
+does education affect the income of an adult individual?” and “is there an income inequality
+gap between males and females across race and occupation?” If you interested in viewing more, 
+please check my project report [here](https://github.com/zhiye6/predicting_adult_income/blob/main/Project_Report.pdf)

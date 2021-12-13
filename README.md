@@ -12,4 +12,4 @@ Overall, the goal of this project is to determine the underlying factors that af
 adult individuals. My analysis will be able provide answers to societal questions such as “how
 does education affect the income of an adult individual?” and “is there an income inequality
 gap between males and females across race and occupation?” If you interested in viewing more, 
-please check my project report [here](https://github.com/zhiye6/predicting_adult_income/blob/main/Project_Report.pdf)
+please check out my project report [here!](https://github.com/zhiye6/predicting_adult_income/blob/main/Project_Report.pdf)

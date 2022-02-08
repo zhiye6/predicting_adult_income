@@ -1,7 +1,6 @@
-The background of this Adult Dataset is that it provides data on the income of adult
-individuals. This data includes relevant information that are potential factors that determines
-the income of adults such as age, education, gender, race, etc. The motivation behind this
-project is to use machine learning to accurately predict whether the income of an adult will
+# Predicting Adult Income that will Exceed $50,000 Per Year
+
+The motivation behind this project is to use machine learning to accurately predict whether the income of an adult will
 exceed $50,000 per year based on the census data. By doing so, I can discover if there are any
 underlying factors that determines whether or not an adult individual will make over $50,000
 per year. Additionally, I will push my analysis further by computing income across genders at
@@ -13,3 +12,5 @@ adult individuals. My analysis will be able provide answers to societal question
 does education affect the income of an adult individual?” and “is there an income inequality
 gap between males and females across race and occupation?” If you interested in viewing more, 
 please check out my project report [here](https://github.com/zhiye6/predicting_adult_income/blob/main/Project_Report.pdf).
+
+Data Source: The [Adult Dataset from the UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult) provides data on the income of adult individuals. In the dataset, there are 48,842 rows and 14 columns. More specifically, the 14 columns included represents age, workclass, fnlwgt, education, education- num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per- week, and native-country.

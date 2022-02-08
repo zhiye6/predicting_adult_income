@@ -1,4 +1,4 @@
-# Predicting Adult Income that will Exceed $50,000 Per Year
+## Predicting Adult Income that will Exceed $50,000 Per Year
 
 The motivation behind this project is to use machine learning to accurately predict whether the income of an adult will
 exceed $50,000 per year based on the census data. By doing so, I can discover if there are any
